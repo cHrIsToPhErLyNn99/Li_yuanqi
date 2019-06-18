@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559822294 source:c:\users\asus sonicmaster\desktop\9.5\src\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1559822293 c:\users\asus sonicmaster\desktop\9.5\include\complex.h
+

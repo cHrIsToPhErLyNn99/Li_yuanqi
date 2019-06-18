@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559824330 source:c:\users\asus sonicmaster\desktop\9.6\src\rational.cpp
+	"Rational.h"
+	<iostream>
+	<iomanip>
+
+1559824330 c:\users\asus sonicmaster\desktop\9.6\include\rational.h
+
